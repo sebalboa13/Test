@@ -10,8 +10,10 @@
         <Label Content="Esto es un test." HorizontalAlignment="Left" Margin="320,104,0,0" VerticalAlignment="Top" Height="53" Width="150"/>
         <Label Content="Wena bro" HorizontalAlignment="Left" Margin="303,282,0,0" VerticalAlignment="Top" Height="53" Width="150"/>
         <ComboBox HorizontalAlignment="Left" Margin="395,162,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged">
+            <ComboBoxItem Content="Item 0"/>
             <ComboBoxItem Content="dfsdfsdfsd"/>
             <ComboBoxItem Content="hi"/>
+            <Button/>
         </ComboBox>
 
     </Grid>
