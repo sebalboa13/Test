@@ -19,7 +19,7 @@
         <Button Content="Editar" HorizontalAlignment="Left" Height="53" Margin="494,282,0,0" VerticalAlignment="Top" Width="178" Click="Button_Click"/>
         <WebBrowser HorizontalAlignment="Left" Height="100" Margin="588,96,0,0" VerticalAlignment="Top" Width="100" Source="ghfghfg"/>
         <Calendar HorizontalAlignment="Left" Margin="172,99,0,0" VerticalAlignment="Top"/>
-        <Image HorizontalAlignment="Left" Height="199" Margin="327,27,0,0" VerticalAlignment="Top" Width="405" Source="thank-you-page-p2d3vdyfva5y1r969cpjrbdwmnzg4hpkm68vj8vqh8.png"/>
+        <Image HorizontalAlignment="Left" Height="199" Margin="23,244,0,-20.2" VerticalAlignment="Top" Width="405" Source="thank-you-page-p2d3vdyfva5y1r969cpjrbdwmnzg4hpkm68vj8vqh8.png"/>
 
     </Grid>
 </Window>
