@@ -103,5 +103,8 @@
   <ItemGroup>
     <Resource Include="chinoqlo.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="thank-you-page-p2d3vdyfva5y1r969cpjrbdwmnzg4hpkm68vj8vqh8.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
