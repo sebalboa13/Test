@@ -15,7 +15,8 @@
             <ComboBoxItem Content="hi"/>
             <Button/>
         </ComboBox>
-        <Image HorizontalAlignment="Left" Height="216" Margin="63,16,0,0" VerticalAlignment="Top" Width="233" Source="chinoqlo.jpg"/>
+        <Image HorizontalAlignment="Left" Height="216" Margin="56,46,0,0" VerticalAlignment="Top" Width="144" Source="chinoqlo.jpg"/>
+        <Button Content="Guardar" HorizontalAlignment="Left" Height="53" Margin="494,282,0,0" VerticalAlignment="Top" Width="178" Click="Button_Click"/>
 
     </Grid>
 </Window>
