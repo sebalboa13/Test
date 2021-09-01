@@ -9,7 +9,7 @@
     <Grid>
         <Label Content="Esto es un test." HorizontalAlignment="Left" Margin="320,104,0,0" VerticalAlignment="Top" Height="53" Width="150"/>
         <Label Content="Wena bro" HorizontalAlignment="Left" Margin="303,282,0,0" VerticalAlignment="Top" Height="53" Width="150"/>
-        <ComboBox HorizontalAlignment="Left" Margin="395,162,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged">
+        <ComboBox HorizontalAlignment="Left" Margin="390,186,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged">
             <ComboBoxItem Content="Item 0"/>
             <ComboBoxItem Content="dfsdfsdfsd"/>
             <ComboBoxItem Content="hi"/>
@@ -18,7 +18,7 @@
         <Image HorizontalAlignment="Left" Height="216" Margin="56,46,0,0" VerticalAlignment="Top" Width="144" Source="chinoqlo.jpg"/>
         <Button Content="Guardar" HorizontalAlignment="Left" Height="53" Margin="494,282,0,0" VerticalAlignment="Top" Width="178" Click="Button_Click"/>
         <WebBrowser HorizontalAlignment="Left" Height="100" Margin="588,96,0,0" VerticalAlignment="Top" Width="100" Source="ghfghfg"/>
-        <Calendar HorizontalAlignment="Left" Margin="50,197,0,0" VerticalAlignment="Top"/>
+        <Calendar HorizontalAlignment="Left" Margin="83,205,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
