@@ -17,7 +17,8 @@
         </ComboBox>
         <Image HorizontalAlignment="Left" Height="216" Margin="56,46,0,0" VerticalAlignment="Top" Width="144" Source="chinoqlo.jpg"/>
         <Button Content="Guardar" HorizontalAlignment="Left" Height="53" Margin="494,282,0,0" VerticalAlignment="Top" Width="178" Click="Button_Click"/>
-        <WebBrowser HorizontalAlignment="Left" Height="100" Margin="588,96,0,0" VerticalAlignment="Top" Width="100"/>
+        <WebBrowser HorizontalAlignment="Left" Height="100" Margin="588,96,0,0" VerticalAlignment="Top" Width="100" Source="ghfghfg"/>
+        <Calendar HorizontalAlignment="Left" Margin="50,197,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
